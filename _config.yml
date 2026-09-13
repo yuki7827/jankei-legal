@@ -1,0 +1,10 @@
+title: 雀計
+description: 雀荘・セット麻雀の精算と点数計算を助けるiOSアプリ
+theme: jekyll-theme-minimal
+baseurl: "/jankei-legal"
+url: "https://yuki7827.github.io"
+
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
