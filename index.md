@@ -25,6 +25,12 @@ title: 雀計 サポート
 
 ---
 
+## ほかのアプリ
+
+- スコア帳（パークゴルフ・グラウンド・ゴルフのスコア記録）: [サポート](pgscore/support) / [プライバシーポリシー](pgscore/privacy-policy) / [利用規約](pgscore/terms-of-service)
+
+---
+
 ## お問い合わせ
 
 ご質問やご意見は、以下までお願いします。
